@@ -1,2 +1,2 @@
 # QuickBites
-lets start makeing food ordering and delivery website
+lets start making food ordering and delivery website
