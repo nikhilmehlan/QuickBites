@@ -22,7 +22,7 @@ QuickBites is a full-stack web application that enables users to browse through 
 - **Search and Filter**: Easily search for dishes and filter results based on categories, ratings, and more.
 - **Order Placement**: Simple and intuitive process for placing orders.
 - **Order Tracking**: Real-time tracking of orders from preparation to delivery.
-- **Payment Gateway**: Secure payment processing.
+- **Payment Gateway**: Secure payments processing.
 - **User Profiles**: Manage user information, order history, and preferences.
 - **Admin Dashboard**: Admin interface for managing restaurants, orders, and users.
 - **Responsive Design**: Fully responsive design for seamless use on any device.
